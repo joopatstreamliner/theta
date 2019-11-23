@@ -7364,6 +7364,11 @@ td.visible-print {
 		position:relative;
 	}
 
+.header-container{min-height:350px;position:relative;}
+@media screen and (max-width: 767px) {
+	.header-container{min-height:200px;position:relative;}
+}
+
 /* Super Slides */
 
 	#slides {
