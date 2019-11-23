@@ -7363,10 +7363,21 @@ td.visible-print {
 		height:auto;
 		position:relative;
 	}
+	
+	
+	
 
-.header-container{min-height:350px;position:relative;}
+
+.header-container{height:350px;position:relative;
+	  background: url(images/header_foto.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
 @media screen and (max-width: 767px) {
-	.header-container{max-height:200px;position:relative;}
+	.header-container{max-height:200px;}
 }
 
 /* Super Slides */
