@@ -7369,7 +7369,7 @@ td.visible-print {
 
 
 .header-container{height:350px;position:relative;
-	  background: url(images/header_foto.jpg) no-repeat center center fixed; 
+	  background: url(./images/header_foto.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
