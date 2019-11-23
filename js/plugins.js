@@ -188,7 +188,7 @@ $(window).bind('load', function () {
 		testMobile = isMobile.any();
 		if (testMobile == null)
 		{
-			$('.image1').parallax("50%", 0.5);
+			$('.header_foto.jpg').parallax("50%", 0.5);
 			$('.image2').parallax("50%", 0.5);
 			$('.image3').parallax("50%", 0.5);
 			$('.image4').parallax("50%", 0.5);
