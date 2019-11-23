@@ -9321,7 +9321,12 @@ td.visible-print {
 		margin:40px auto;
         margin-left: 210px;
 	}
-
+	
+	@media screen and (max-width: 767px) {
+		.packages{
+		        margin-left: 0px;
+	}
+	}
 	.packages .package{
 		border:1px solid #e1e1e1;
 		height:auto;
