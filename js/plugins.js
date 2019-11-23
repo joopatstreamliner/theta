@@ -2,9 +2,9 @@
  /* ==============================================
 Home Super Slider (images)
 =============================================== */
- $('#slides').superslides({
+/* $('#slides').superslides({
       animation: 'fade'
-    });
+    });*/
 	
 /* ==============================================
 Flex Slider Home Main
